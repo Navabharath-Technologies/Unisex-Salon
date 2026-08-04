@@ -2,10 +2,10 @@ import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 
 const HERO_IMAGES = [
-  "/hero_salon_bg.png",
-  "/hero_slide_2.png",
-  "/hero_slide_3.png",
-  "/hero_slide_4.png"
+  "/Unisex-Salon/hero_salon_bg.png",
+  "/Unisex-Salon/hero_slide_2.png",
+  "/Unisex-Salon/hero_slide_3.png",
+  "/Unisex-Salon/hero_slide_4.png"
 ];
 
 export default function Hero({ onBookClick }) {

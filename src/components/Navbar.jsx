@@ -53,7 +53,7 @@ export default function Navbar({ onBookClick }) {
         {/* Logo */}
         <a href="#home" style={{ display: 'flex', alignItems: 'center', gap: '10px', textDecoration: 'none' }}>
           <img
-            src="/logo.png"
+            src="/Unisex-Salon/logo.png"
             alt="Style Atelier"
             style={{
               height: '36px',

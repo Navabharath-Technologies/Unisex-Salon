@@ -9,7 +9,7 @@ const stylists = [
     role: 'Master Barber & Groomer',
     experience: '12 Years',
     specialty: 'Royal Beard Sculpt & Precision Fades',
-    img: '/grooming_service.png',
+    img: '/Unisex-Salon/grooming_service.png',
     quote: 'Grooming is not a routine, it is an architectural art form.'
   },
   {
@@ -18,7 +18,7 @@ const stylists = [
     role: 'Creative Hair Director',
     experience: '15 Years',
     specialty: 'Balayage Couture & Keratin Restorations',
-    img: '/hair_service.png',
+    img: '/Unisex-Salon/hair_service.png',
     quote: 'Your hair is the crown you never take off. Let us gild it.'
   },
   {
@@ -27,7 +27,7 @@ const stylists = [
     role: 'Elite Aesthetic Therapist',
     experience: '10 Years',
     specialty: 'Radiance Facials & Dermal Reconstruction',
-    img: '/facial_service.png',
+    img: '/Unisex-Salon/facial_service.png',
     quote: 'True beauty lies in healthy, cellular-level radiance.'
   }
 ];

@@ -25,7 +25,7 @@ export default function Footer({ onBookClick }) {
         <div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '25px' }}>
             <img
-              src="/logo.png"
+              src="/Unisex-Salon/logo.png"
               alt="Style Atelier"
               style={{ height: '32px', objectFit: 'contain', display: 'block' }}
               onError={(e) => { e.currentTarget.style.display = 'none'; }}

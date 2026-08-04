@@ -3,12 +3,12 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Search, X, ZoomIn } from 'lucide-react';
 
 const lookbookItems = [
-  { id: 1, title: 'Couture Balayage', category: 'HAIR', img: '/hair_service.png', desc: 'Seamless, sun-kissed blonde gradients, custom-tailored for rich volume and soft motion.' },
-  { id: 2, title: 'Basalt Stone Harmony', category: 'STYLING', img: '/facial_service.png', desc: 'Symmetrical stones layered with aromatic oils to relieve deep muscular tension.' },
-  { id: 3, title: 'The Imperial Sculpt', category: 'GROOMING', img: '/grooming_service.png', desc: 'Sharp razor lines, steam towel conditioning, and beard hydration therapy.' },
-  { id: 4, title: 'Signature D’Or Salon', category: 'STYLING', img: '/hero_salon_bg.png', desc: 'An overview of our main studio floor designed with high-end brass accents.' },
-  { id: 5, title: 'Gilded Nails Couture', category: 'STYLING', img: '/nail_service.png', desc: 'Prestige manicure services featuring metallic gold accents on obsidian base.' },
-  { id: 6, title: 'Vogue Scalp Therapy', category: 'HAIR', img: '/hair_wash_therapy.png', desc: 'Indulgent botanical oil washing wash followed by head and shoulder acupressure.' },
+  { id: 1, title: 'Couture Balayage', category: 'HAIR', img: '/Unisex-Salon/hair_service.png', desc: 'Seamless, sun-kissed blonde gradients, custom-tailored for rich volume and soft motion.' },
+  { id: 2, title: 'Basalt Stone Harmony', category: 'STYLING', img: '/Unisex-Salon/facial_service.png', desc: 'Symmetrical stones layered with aromatic oils to relieve deep muscular tension.' },
+  { id: 3, title: 'The Imperial Sculpt', category: 'GROOMING', img: '/Unisex-Salon/grooming_service.png', desc: 'Sharp razor lines, steam towel conditioning, and beard hydration therapy.' },
+  { id: 4, title: 'Signature D’Or Salon', category: 'STYLING', img: '/Unisex-Salon/hero_salon_bg.png', desc: 'An overview of our main studio floor designed with high-end brass accents.' },
+  { id: 5, title: 'Gilded Nails Couture', category: 'STYLING', img: '/Unisex-Salon/nail_service.png', desc: 'Prestige manicure services featuring metallic gold accents on obsidian base.' },
+  { id: 6, title: 'Vogue Scalp Therapy', category: 'HAIR', img: '/Unisex-Salon/hair_wash_therapy.png', desc: 'Indulgent botanical oil washing wash followed by head and shoulder acupressure.' },
   { id: 7, title: 'Couture Blowout', category: 'HAIR', img: 'https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=800&q=80', desc: 'Premium blowouts crafted to create elegant bouncy curls and long-lasting shape.' },
   { id: 8, title: 'Platinum Edge Cut', category: 'GROOMING', img: 'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=800&q=80', desc: 'Precision styling tailored to highlight facial symmetry and individual edge.' },
   { id: 9, title: 'Rose Gold Manicure', category: 'STYLING', img: 'https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80', desc: 'Hand spa and polish utilizing premium nourishing oils and high-durability rose gold glazes.' },
